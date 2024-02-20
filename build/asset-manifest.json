@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/css/main.fb741485.css",
+    "main.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/main.053727fa.js",
+    "static/js/894.9a09f68a.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/894.9a09f68a.chunk.js",
+    "static/js/848.ed0f84d3.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/848.ed0f84d3.chunk.js",
+    "static/js/253.de0b2a45.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/253.de0b2a45.chunk.js",
+    "static/js/425.8fff38a0.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/425.8fff38a0.chunk.js",
+    "static/js/569.558ed90f.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/569.558ed90f.chunk.js",
+    "static/js/874.854f67a4.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/874.854f67a4.chunk.js",
+    "static/js/677.4a1f3e79.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/677.4a1f3e79.chunk.js",
+    "static/js/992.d4f39ab3.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/992.d4f39ab3.chunk.js",
+    "static/media/avatar-2.jpg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/avatar-2.fe522115fc53ae0edc10.jpg",
+    "static/media/avatar-3.jpg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/avatar-3.6b959963e51a693f8ed4.jpg",
+    "static/media/avatar-1.jpg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/avatar-1.9637e523fc4349a74e8d.jpg",
+    "static/media/logo.svg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/logo.73cf184b11041549695909ac089e4bbf.svg",
+    "static/media/logo-dark.svg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/logo-dark.646fbd8cac49e87e97303ac48d9310c5.svg",
+    "static/media/social-google.svg": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/media/social-google.9887eb8eb43729cb99f402cfa0de3c44.svg",
+    "index.html": "https://codedthemes.com/demos/admin-templates/materially/react/free/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fb741485.css",
+    "static/js/main.053727fa.js"
+  ]
+}
