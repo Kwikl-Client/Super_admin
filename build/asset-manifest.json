@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/css/main.fb741485.css",
-    "main.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/main.b87ee395.js",
+    "main.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/main.f508db6a.js",
     "static/js/894.914afe7c.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/894.914afe7c.chunk.js",
     "static/js/848.ed0f84d3.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/848.ed0f84d3.chunk.js",
-    "static/js/253.f36dfd9c.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/253.f36dfd9c.chunk.js",
+    "static/js/253.7113eff1.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/253.7113eff1.chunk.js",
     "static/js/425.8fff38a0.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/425.8fff38a0.chunk.js",
     "static/js/569.558ed90f.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/569.558ed90f.chunk.js",
     "static/js/874.854f67a4.chunk.js": "https://codedthemes.com/demos/admin-templates/materially/react/free/static/js/874.854f67a4.chunk.js",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.fb741485.css",
-    "static/js/main.b87ee395.js"
+    "static/js/main.f508db6a.js"
   ]
 }
